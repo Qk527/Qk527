@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.jpg" alt="mountain" width="750"/>
+  <img src="image.jpg" alt="mountain" width="650"/>
    </p>
    
 <p align="center"> Based in Mendoza. </p>
