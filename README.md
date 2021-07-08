@@ -1,3 +1,6 @@
+https://github.com/Qk527/Qk527/blob/main/11698605_10206126007445525_3502622798747758169_n.jpg
+
+
 - 👋 Hi, I’m Qk Carricondo.
 - 👀 I’m interested in modeling human behaviour using artificial intelligence.
 - 🌱 Always learning, always moving.
