@@ -1,8 +1,11 @@
-![GitHub Logo](image.jpg)
-## Based in Mendoza.
+<p align="center">
+  <img src="image.jpg" alt="mountain" width="800"/>
+   </p>
+   
+<p align="center"> Based in Mendoza. </p>
 
 
-- 👋 Hi, I’m Qk Carricondo.
+# 👋 Hi, I’m Qk Carricondo.
 - 👀 I’m interested in modeling human behaviour using artificial intelligence.
 - 🌱 Always learning, always moving.
 - 💞️ I’m looking to collaborate on machine learning project oriented to human behaviour.
