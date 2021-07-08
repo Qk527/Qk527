@@ -12,7 +12,7 @@
 - 👀 I’m interested in modeling human behaviour using artificial intelligence.
 - 🌱 Always learning, always moving.
 
-## You can find me
+## :thought_balloon: You can find me
 
 <a href="https://app.slack.com/client/T027DJ1J4E9/C0279S59RU6">
   <img align="left" alt="Qk's Slack" width="112px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" />
