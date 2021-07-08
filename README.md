@@ -6,12 +6,11 @@
 
 
 # 👋 Hi, I’m Qk Carricondo.
-## Data Scientist Jr.
+## :space_invader: Data Scientist Jr
 
 
 - 👀 I’m interested in modeling human behaviour using artificial intelligence.
 - 🌱 Always learning, always moving.
-- 💞️ I’m looking to collaborate on machine learning project oriented to human behaviour.
 - 📫 You can found me in [Linkedin](https://www.linkedin.com/in/julieta-carricondo-robino/?locale=en_US)!
 
 <!---
