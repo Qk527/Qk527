@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="image.jpg" alt="mountain" width="650"/>
-   </p>
-   
-<p align="center"> Based in Mendoza. </p>
-
-
 # 👋 Hi, I’m Qk Carricondo.
 ## :space_invader: Data Scientist Jr
 
@@ -41,6 +34,16 @@
 <a href="https://open.spotify.com/user/21regfwib32wmqv6dwab4d55y?si=fd05aa22b31b432d">
   <img align="left" alt="Qk's Spotify" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
+<br />
+<br />
+<br />
+
+<p align="center">
+  <img src="image.jpg" alt="mountain" width="650"/>
+   </p>
+   
+<p align="center"> Based in Mendoza. </p>
 
 <!---
 Qk527/Qk527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
