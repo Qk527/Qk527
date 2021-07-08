@@ -6,6 +6,8 @@
 
 
 # 👋 Hi, I’m Qk Carricondo.
+## Data Scientist Jr.
+
 
 - 👀 I’m interested in modeling human behaviour using artificial intelligence.
 - 🌱 Always learning, always moving.
