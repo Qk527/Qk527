@@ -12,6 +12,22 @@
 - 👀 I’m interested in modeling human behaviour using artificial intelligence.
 - 🌱 Always learning, always moving.
 
+## 	:mechanical_arm: My technology stack
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+<code><img height="50" src="https://www.adictosaltrabajo.com/wp-content/uploads/2020/12/1200px-Pandas_logo.svg_.png"></code>
+<code><img height="47" src="https://www.itop.es/images/Tecnologias/scikit-learn-itop.png"></code>
+<code><img height="42" src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg"></code>
+<code><img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+
 ## :thought_balloon: You can find me
 
 <a href="https://app.slack.com/client/T027DJ1J4E9/C0279S59RU6">
