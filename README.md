@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Qk Carricondo.
-## :space_invader: Data Scientist Jr
+## :space_invader: Data Scientist
 
 
 - 👀 I’m interested in modeling human behaviour using artificial intelligence.
