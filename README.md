@@ -3,7 +3,8 @@
 
 
 - 👀 I’m interested in modeling human behaviour using artificial intelligence.
-- 🌱 Always learning, always moving.
+- :musical_score: You can find my TEDx talk in: [Moviemiento en CLave de Sol](https://www.youtube.com/watch?v=kbLH--fVzXY)
+- 🌱 _Always learning, always moving._
 
 ## 	:mechanical_arm: My technology stack
 
