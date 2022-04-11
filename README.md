@@ -3,10 +3,11 @@
 
 
 - 👀 I’m interested in modeling human behaviour using artificial intelligence.
+- :trophy: [Rising Star - Globant Women Awards](https://womenawards.globant.com/2427/Julieta-Carricondo-Robino)
 - :musical_score: You can find my TEDx talk in: [Moviemiento en Clave de Sol](https://www.youtube.com/watch?v=kbLH--fVzXY)
 - 🌱 _Always learning, always moving._
 
-## 	:mechanical_arm: My technology stack
+## 	:mechanical_arm: Some of my technology stack
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
 <code><img height="50" src="https://www.adictosaltrabajo.com/wp-content/uploads/2020/12/1200px-Pandas_logo.svg_.png"></code>
@@ -30,10 +31,6 @@
 
 <a href="https://www.linkedin.com/in/julieta-carricondo-robino/?locale=en_US">
   <img align="left" alt="Qk´s LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://open.spotify.com/user/21regfwib32wmqv6dwab4d55y?si=fd05aa22b31b432d">
-  <img align="left" alt="Qk's Spotify" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 <br />
